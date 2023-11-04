@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Action & Adventure",
+        "dataID": 10759
+    },
+    {
+        "name": "Animation",
+        "dataID": 16
+    },
+    {
+        "name": "Comedy",
+        "dataID": 35
+    },
+    {
+        "name": "Crime",
+        "dataID": 80
+    },
+    {
+        "name": "Documentary",
+        "dataID": 99
+    },
+    {
+        "name": "Drama",
+        "dataID": 18
+    },
+    {
+        "name": "Family",
+        "dataID": 10751
+    },
+    {
+        "name": "Kids",
+        "dataID": 10762
+    },
+    {
+        "name": "Mystery",
+        "dataID": 9648
+    },
+    {
+        "name": "News",
+        "dataID": 10763
+    },
+    {
+        "name": "Sci-Fi & Fantasy",
+        "dataID": 10765
+    },
+    {
+        "name": "Soap",
+        "dataID": 10766
+    },
+    {
+        "name": "Talk",
+        "dataID": 10767
+    },
+    {
+        "name": "War & Politics",
+        "dataID": 10768
+    },
+    {
+        "name": "Western",
+        "dataID": 37
+    }
+]
